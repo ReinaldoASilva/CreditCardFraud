@@ -13,7 +13,7 @@ print(versão)
 
 
 # Visualizar arquivo
-credit_card = pd.read_csv('/Users/reinaldoblack/Documents/documentos/github/streamlit/CreditCardFraud/creditcard.csv')
+credit_card = pd.read_csv('/Users/reinaldoblack/Documents/documentos/github/CreditCardFraud/creditcard.csv')
 credit_card
 
 # Dados nulos
